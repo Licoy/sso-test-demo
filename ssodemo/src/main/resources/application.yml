@@ -1,0 +1,7 @@
+spring:
+  mvc:
+    view:
+      prefix: classpath:/templates/
+      suffix: .ftl
+  freemarker:
+    cache: false
